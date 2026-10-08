@@ -5,6 +5,7 @@
 * desc: vector calculator
 * comp: gcc miniMat.c myVectArray.c myVectTop.c -o miniMat
 ****************/
+    //this is an edit
     #include <stdio.h>
     #include "miniMat.h"
 
